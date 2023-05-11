@@ -1,7 +1,6 @@
 # 跳跳虎AI
 > 一款利用 AI 帮你的草图快速变成作品的工具
-
-[](c1.png)
+![](https://github.com/lucoo01/tiger_draw/blob/19dd3ec739f6efe4edca8a5ff11f11fdd9f927ab/c1.png)
 
 ## 安装和使用
 
