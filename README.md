@@ -1,15 +1,17 @@
-# ÌøÌø»¢AI
-> Ò»¿îÀûÓÃ AI °ïÄãµÄ²İÍ¼¿ìËÙ±ä³É×÷Æ·µÄ¹¤¾ß
-## °²×°ºÍÊ¹ÓÃ
+# è·³è·³è™AI
+> ä¸€æ¬¾åˆ©ç”¨ AI å¸®ä½ çš„è‰å›¾å¿«é€Ÿå˜æˆä½œå“çš„å·¥å…·
+## å®‰è£…å’Œä½¿ç”¨
 
-1. °²×°Node.js
-1. ¸´ÖÆ [Replicate API token](https://replicate.com/account?utm_source=project&utm_campaign=scribblediffusion) µ½»·¾³±äÁ¿ÎÄ¼ş:
+1. å®‰è£…Node.js
+1. å¤åˆ¶ [Replicate API token](https://replicate.com/account?utm_source=project&utm_campaign=scribblediffusion) åˆ°ç¯å¢ƒå˜é‡æ–‡ä»¶:
    ```
    echo "REPLICATE_API_TOKEN=<your-token-here>" > .env.local
    ```
-1. °²×°ÒÀÀµ²¢Æô¶¯:
+1. å®‰è£…ä¾èµ–å¹¶å¯åŠ¨:
    ```
    npm install
    npm run dev
    ```
-1. ´ò¿ªä¯ÀÀÆ÷ [localhost:3000](http://localhost:3000) 
+1. æ‰“å¼€æµè§ˆå™¨ [localhost:3000](http://localhost:3000) 
+
+> æ³¨æ„: å­˜å‚¨ç”¨åˆ°äº† upload.io, è¯·è‡ªå·±åˆ° lib/upload.js æ›´æ¢å¯†é’¥
